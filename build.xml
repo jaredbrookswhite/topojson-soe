@@ -4,7 +4,7 @@
 ]>
 <!-- :mode=ant -->
 
-<project name="Samples; ArcObjects SDK for the Java(tm) Platform" default="all" basedir=".">
+<project name="Topojson Server Object Extension for ArcGIS Server" default="all" basedir=".">
  	<!-- import external XML fragments -->
  	&properties;
  	<!-- import sample properties -->
